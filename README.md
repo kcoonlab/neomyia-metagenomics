@@ -14,6 +14,6 @@ Scripts used for analysis and figure generation are available at forgemia.inra.f
 
 
 ### Contact 
-Andrew J. Sommer - asommer3@wisc.edu\ 
+Andrew J. Sommer - asommer3@wisc.edu\
 Kerri L. Coon - kerri.coon@wisc.edu\
 Panagiotis (Panos) Sapountzis - panagiotis.sapountzis@inrae.fr
